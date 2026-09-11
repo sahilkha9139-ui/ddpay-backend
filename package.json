@@ -1,0 +1,12 @@
+{
+  "name": "ddpay-backend",
+  "version": "1.0.0",
+  "description": "DDPay backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
